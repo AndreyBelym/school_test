@@ -1,0 +1,102 @@
+Line 156: Class MSForms.CommandButton of control cmdItog was not a loaded control class.
+Line 172: Class MSForms.CommandButton of control cmdBegin was not a loaded control class.
+Line 188: Class MSForms.OptionButton of control Op4 was not a loaded control class.
+Line 205: Class MSForms.OptionButton of control Op3 was not a loaded control class.
+Line 222: Class MSForms.OptionButton of control Op2 was not a loaded control class.
+Line 239: Class MSForms.OptionButton of control Op1 was not a loaded control class.
+Line 256: Class MSForms.CommandButton of control Command5 was not a loaded control class.
+Line 272: Class MSForms.TextBox of control Text1 was not a loaded control class.
+Line 286: Class MSForms.CommandButton of control Command4 was not a loaded control class.
+Line 302: Class MSForms.CommandButton of control Command3 was not a loaded control class.
+Line 318: Class MSForms.CommandButton of control Command2 was not a loaded control class.
+Line 335: Class MSForms.CommandButton of control Command1 was not a loaded control class.
+Line 351: Class MSForms.TextBox of control TextBox1 was not a loaded control class.
+Line 163: The property name VariousPropertyBits in cmdItog is invalid.
+Line 164: The property name Caption in cmdItog is invalid.
+Line 165: The property name Size in cmdItog is invalid.
+Line 167: The property name FontHeight in cmdItog is invalid.
+Line 168: The property name FontCharSet in cmdItog is invalid.
+Line 169: The property name FontPitchAndFamily in cmdItog is invalid.
+Line 170: The property name ParagraphAlign in cmdItog is invalid.
+Line 179: The property name VariousPropertyBits in cmdBegin is invalid.
+Line 180: The property name Caption in cmdBegin is invalid.
+Line 181: The property name Size in cmdBegin is invalid.
+Line 183: The property name FontHeight in cmdBegin is invalid.
+Line 184: The property name FontCharSet in cmdBegin is invalid.
+Line 185: The property name FontPitchAndFamily in cmdBegin is invalid.
+Line 186: The property name ParagraphAlign in cmdBegin is invalid.
+Line 194: The property name VariousPropertyBits in Op4 is invalid.
+Line 197: The property name DisplayStyle in Op4 is invalid.
+Line 198: The property name Size in Op4 is invalid.
+Line 199: The property name Value in Op4 is invalid.
+Line 201: The property name FontHeight in Op4 is invalid.
+Line 202: The property name FontCharSet in Op4 is invalid.
+Line 203: The property name FontPitchAndFamily in Op4 is invalid.
+Line 211: The property name VariousPropertyBits in Op3 is invalid.
+Line 214: The property name DisplayStyle in Op3 is invalid.
+Line 215: The property name Size in Op3 is invalid.
+Line 216: The property name Value in Op3 is invalid.
+Line 218: The property name FontHeight in Op3 is invalid.
+Line 219: The property name FontCharSet in Op3 is invalid.
+Line 220: The property name FontPitchAndFamily in Op3 is invalid.
+Line 228: The property name VariousPropertyBits in Op2 is invalid.
+Line 231: The property name DisplayStyle in Op2 is invalid.
+Line 232: The property name Size in Op2 is invalid.
+Line 233: The property name Value in Op2 is invalid.
+Line 235: The property name FontHeight in Op2 is invalid.
+Line 236: The property name FontCharSet in Op2 is invalid.
+Line 237: The property name FontPitchAndFamily in Op2 is invalid.
+Line 245: The property name VariousPropertyBits in Op1 is invalid.
+Line 248: The property name DisplayStyle in Op1 is invalid.
+Line 249: The property name Size in Op1 is invalid.
+Line 250: The property name Value in Op1 is invalid.
+Line 252: The property name FontHeight in Op1 is invalid.
+Line 253: The property name FontCharSet in Op1 is invalid.
+Line 254: The property name FontPitchAndFamily in Op1 is invalid.
+Line 263: The property name VariousPropertyBits in Command5 is invalid.
+Line 264: The property name Caption in Command5 is invalid.
+Line 265: The property name Size in Command5 is invalid.
+Line 267: The property name FontHeight in Command5 is invalid.
+Line 268: The property name FontCharSet in Command5 is invalid.
+Line 269: The property name FontPitchAndFamily in Command5 is invalid.
+Line 270: The property name ParagraphAlign in Command5 is invalid.
+Line 278: The property name VariousPropertyBits in Text1 is invalid.
+Line 280: The property name Size in Text1 is invalid.
+Line 282: The property name FontHeight in Text1 is invalid.
+Line 283: The property name FontCharSet in Text1 is invalid.
+Line 284: The property name FontPitchAndFamily in Text1 is invalid.
+Line 293: The property name VariousPropertyBits in Command4 is invalid.
+Line 294: The property name Caption in Command4 is invalid.
+Line 295: The property name Size in Command4 is invalid.
+Line 297: The property name FontHeight in Command4 is invalid.
+Line 298: The property name FontCharSet in Command4 is invalid.
+Line 299: The property name FontPitchAndFamily in Command4 is invalid.
+Line 300: The property name ParagraphAlign in Command4 is invalid.
+Line 309: The property name VariousPropertyBits in Command3 is invalid.
+Line 310: The property name Caption in Command3 is invalid.
+Line 311: The property name Size in Command3 is invalid.
+Line 313: The property name FontHeight in Command3 is invalid.
+Line 314: The property name FontCharSet in Command3 is invalid.
+Line 315: The property name FontPitchAndFamily in Command3 is invalid.
+Line 316: The property name ParagraphAlign in Command3 is invalid.
+Line 325: The property name VariousPropertyBits in Command2 is invalid.
+Line 326: The property name Caption in Command2 is invalid.
+Line 327: The property name Size in Command2 is invalid.
+Line 329: The property name FontEffects in Command2 is invalid.
+Line 330: The property name FontHeight in Command2 is invalid.
+Line 331: The property name FontCharSet in Command2 is invalid.
+Line 332: The property name FontPitchAndFamily in Command2 is invalid.
+Line 333: The property name ParagraphAlign in Command2 is invalid.
+Line 342: The property name VariousPropertyBits in Command1 is invalid.
+Line 343: The property name Caption in Command1 is invalid.
+Line 344: The property name Size in Command1 is invalid.
+Line 346: The property name FontHeight in Command1 is invalid.
+Line 347: The property name FontCharSet in Command1 is invalid.
+Line 348: The property name FontPitchAndFamily in Command1 is invalid.
+Line 349: The property name ParagraphAlign in Command1 is invalid.
+Line 357: The property name VariousPropertyBits in TextBox1 is invalid.
+Line 359: The property name Size in TextBox1 is invalid.
+Line 360: The property name FontEffects in TextBox1 is invalid.
+Line 361: The property name FontHeight in TextBox1 is invalid.
+Line 362: The property name FontCharSet in TextBox1 is invalid.
+Line 363: The property name FontPitchAndFamily in TextBox1 is invalid.
